@@ -1,0 +1,2 @@
+VPC created on Wed Apr 3 20:51:05 PKT 2024 and VPC ID: vpc-06c6f82ae7ba40257
+VPC created on Thu Apr 4 04:10:32 PKT 2024 and VPC ID: vpc-0d0d67304120186e7
